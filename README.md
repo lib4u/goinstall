@@ -1,6 +1,6 @@
 
 # Installing and Updating Golang in Linux
-Small shell script that will allow you to easily install or update golang from the official website go.dev to the latest version on your linux
+Small shell script that will allow you to easily install or update Golang from the official website go.dev to the latest version.
 
 Clone repository
 ```sh
