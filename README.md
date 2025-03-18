@@ -6,6 +6,12 @@ Fedora, Ubuntu, Debian, Arch and other.
 
 Clone repository
 ```sh
+git clone https://github.com/lib4u/goinstall.git
+```
+
+Or download script via wget
+
+```sh
 wget https://raw.githubusercontent.com/lib4u/goinstall/refs/heads/main/go_updater.sh
 ```
 Start install
