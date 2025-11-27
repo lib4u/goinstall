@@ -41,6 +41,8 @@ rm "$GO_TAR"
 PROFILE_FILE="$HOME/.bashrc"
 if [ -f "$HOME/.zshrc" ]; then
     PROFILE_FILE="$HOME/.zshrc"
+elif [ -f "$HOME/.bashrc" ]; then
+    PROFILE_FILE="$HOME/.bashrc"
 elif [ -f "$HOME/.profile" ]; then
     PROFILE_FILE="$HOME/.profile"
 fi
